@@ -1,0 +1,13 @@
+.text-inputs-normal-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 160px;
+  min-width: 337px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+.text-inputs-normal-1.text-inputs-normal {
+  height: 50px;
+  margin-top: 12px;
+}
